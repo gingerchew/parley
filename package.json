@@ -1,0 +1,23 @@
+{
+  "name": "parley-root",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changeset": "changeset"
+  },
+  "keywords": [],
+  "author": "ginger",
+  "license": "MIT",
+  "packageManager": "pnpm@8.7.4",
+  "devDependencies": {
+    "@astrojs/check":"^0.9.4",
+    "@changesets/changelog-github":"^0.5.0",
+    "@changesets/cli":"^2.27.9",
+    "astro":"^5.1.7",
+    "prettier": "^3.4.2",
+    "prettier-plugin-astro": "^0.14.1",
+    "typescript":"^5.6.3"
+  }
+}
