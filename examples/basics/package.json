@@ -1,5 +1,5 @@
 {
-  "name": "parley",
+  "name": "basics",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,10 +9,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/node": "^9.0.1",
-    "@auth/core": "^0.37.4",
-    "astro": "^5.1.7",
-    "auth-astro": "^4.2.0",
-    "cookie": "^1.0.2"
+    "astro": "^5.1.7"
   }
 }
